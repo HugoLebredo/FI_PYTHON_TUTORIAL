@@ -1,5 +1,16 @@
 # Fundamentos de programación con Python
 
+<style>
+
+    .table{ 
+            border-collapse:collapse;
+            text-align:center;
+            margin-left:auto;
+            margin-right:auto;
+        }
+
+</style>
+
 <table class="table">
     <thead>
         <tr>
@@ -13,17 +24,6 @@
         </tr>
     </thead>
 </table>
-
-<style>
-
-    .table{ 
-            border-collapse:collapse;
-            text-align:center;
-            margin-left:auto;
-            margin-right:auto;
-        }
-
-</style>
 
 # Teoría
 [Manual con ejemplos](./teoria/tutorial.ipynb)
