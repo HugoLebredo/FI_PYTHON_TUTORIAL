@@ -24,7 +24,8 @@
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HugoLebredo/FI_PYTHON_TUTORIAL/blob/main/ejercicios/FI_practica2.ipynb)
 * [Condiciones](./ejercicios/FI_practica3.ipynb)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HugoLebredo/FI_PYTHON_TUTORIAL/blob/main/ejercicios/FI_practica3.ipynb)
-* []()
+* [Bucle While](./ejercicios/FI_practica4.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HugoLebredo/FI_PYTHON_TUTORIAL/blob/main/ejercicios/FI_practica4.ipynb)
 * []()
 ## Enlaces de interés
 * [Aprendiendo con Alf](https://aprendeconalf.es/docencia/python/). Gran sitio web con multitud de ejercicios y soluciones de todos los niveles, además se puede modificar el código de las soluciones.
