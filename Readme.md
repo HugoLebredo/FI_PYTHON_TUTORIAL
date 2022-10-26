@@ -26,7 +26,10 @@
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HugoLebredo/FI_PYTHON_TUTORIAL/blob/main/ejercicios/FI_practica3.ipynb)
 * [Bucle While](./ejercicios/FI_practica4.ipynb)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HugoLebredo/FI_PYTHON_TUTORIAL/blob/main/ejercicios/FI_practica4.ipynb)
-* []()
+* [Bucle For](./ejercicios/FI_practica5.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HugoLebredo/FI_PYTHON_TUTORIAL/blob/main/ejercicios/FI_practica5.ipynb)
+* [Bucle While & For](./ejercicios/FI_practica6.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HugoLebredo/FI_PYTHON_TUTORIAL/blob/main/ejercicios/FI_practica6.ipynb)
 ## Enlaces de interés
 ### Apuntes 📔
 * [Python Cheatsheet](https://www.pythoncheatsheet.org/) Sitio web con muchos ejemplos básicos sobre la sintaxis básica de Python. Un buen sitio para obtener información para principiantes.
@@ -36,7 +39,7 @@
 * [Diapositivas muy chulas](https://programmingwithmosh.com/wp-content/uploads/2018/11/Python-3-Cheat-Sheet-v3.pdf) También contenido de Mosh Hamedani. Personalmente me gustan mucho 👌
 * [Explicación sobre los diferentes operadores](https://realpython.com/python-operators-expressions/) Un buen articulo donde explica todos los operadores existetes en Pyhton con ejemplos. Buen post para buscar dudas.
 * [Chuleta](https://cheatography.com/davechild/cheat-sheets/python/) 2 paginas con toda la sintaxis necesaria para empezar a programar.
-* [Comprehensive Python Cheatshee](https://github.com/gto76/python-cheatsheet) Con más de  30m ⭐️ en github esta guia proporciona una documentación muy profunda a par que clara y accesible para quien quiera entender lo básico e ir más allá en el conocimiento de python.
+* [Comprehensive Python Cheatsheet](https://github.com/gto76/python-cheatsheet) Con más de  30m ⭐️ en github esta guia proporciona una documentación muy profunda a par que clara y accesible para quien quiera entender lo básico e ir más allá en el conocimiento de python.
 ### Youtube 📺
 * [Curso Python - youtube](https://www.youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS). Un curso online, está dividido en muchos videos pero son muy concretos y claros.
 * [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh) Canal con listas de reproducción sobre Python muy trabajados y entretenidos.
