@@ -30,6 +30,8 @@
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HugoLebredo/FI_PYTHON_TUTORIAL/blob/main/ejercicios/FI_practica5.ipynb)
 * [Bucle While & For](./ejercicios/FI_practica6.ipynb)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HugoLebredo/FI_PYTHON_TUTORIAL/blob/main/ejercicios/FI_practica6.ipynb)
+* [Funciones I](./ejercicios/FI_practica7.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HugoLebredo/FI_PYTHON_TUTORIAL/blob/main/ejercicios/FI_practica7.ipynb)
 ## Enlaces de interés
 ### Apuntes 📔
 * [Python Cheatsheet](https://www.pythoncheatsheet.org/) Sitio web con muchos ejemplos básicos sobre la sintaxis básica de Python. Un buen sitio para obtener información para principiantes.
