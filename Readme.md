@@ -36,7 +36,8 @@
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HugoLebredo/FI_PYTHON_TUTORIAL/blob/main/ejercicios/FI_practica8.ipynb)
 * [Listas I](./ejercicios/FI_practica9.ipynb)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HugoLebredo/FI_PYTHON_TUTORIAL/blob/main/ejercicios/FI_practica9.ipynb)
-
+* [Listas II](./ejercicios/FI_practica10.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HugoLebredo/FI_PYTHON_TUTORIAL/blob/main/ejercicios/FI_practica10.ipynb)
 ## Parciales
 * [Parcial I](./ejercicios/FI_parcial_1.ipynb)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HugoLebredo/FI_PYTHON_TUTORIAL/blob/main/ejercicios/FI_parcial_1.ipynb)
