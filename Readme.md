@@ -41,6 +41,8 @@
 ## Parciales
 * [Parcial I](./ejercicios/FI_parcial_1.ipynb)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HugoLebredo/FI_PYTHON_TUTORIAL/blob/main/ejercicios/FI_parcial_1.ipynb)
+* [Parcial II](./ejercicios/FI_parcial_1.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HugoLebredo/FI_PYTHON_TUTORIAL/blob/main/ejercicios/FI_parcial_2.ipynb)
 
 ## Enlaces de interés
 ### Apuntes 📔
